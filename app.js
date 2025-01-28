@@ -8,7 +8,7 @@ function agregarAmigo() {
     const input = document.getElementById("amigo");
     // Elimina espacios al principio y final una vez capturado el texto ingresado
     const nombreAmigo = input.value.trim(); 
-
+    
     // Validar que el campo no esté vacío
     if (nombreAmigo === "") {
         //Muestra mensaje notificando que se debe de ingresar un nombre
