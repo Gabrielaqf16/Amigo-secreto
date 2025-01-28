@@ -1,5 +1,7 @@
 # Amigo Secreto 
 
+![Aplicación: Amigo Secreto](./assets/amigo-secreto.png)
+
 ## Descripción del Proyecto
 Este proyecto tiene como principal objetivo fortalecer tus habilidades en lógica de programación mediante la creación de una sencilla aplicación para sortear un "amigo secreto". La aplicación permite a los usuarios ingresar nombres en una lista y seleccionar aleatoriamente a uno de ellos como el amigo secreto.
 
