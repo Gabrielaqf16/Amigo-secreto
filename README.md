@@ -12,7 +12,7 @@ Este proyecto tiene como principal objetivo fortalecer tus habilidades en lógic
 - **HTML**: Para estructurar la interfaz de usuario.
 - **CSS**: (opcional) Para estilizar la interfaz.
 - **JavaScript**: Para la lógica de programación.
-
+  
 ## Cómo usar
 1. Ingresa el nombre de un amigo en el campo de texto y haz clic en el botón **"Agregar"** para añadirlo a la lista.
 2. Una vez que hayas agregado todos los nombres, haz clic en el botón **"Sortear Amigo Secreto"**.
