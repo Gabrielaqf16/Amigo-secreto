@@ -22,4 +22,4 @@ Este proyecto tiene como principal objetivo fortalecer tus habilidades en lógic
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Gabriela Quispe Farfán** - *Trabajo Inicial* - [gabrielaqf16](https://github.com/gabrielaqf16)
+* **Gabriela Quispe Farfán** - *Trabajo Inicial y final* - [gabrielaqf16](https://github.com/gabrielaqf16)
