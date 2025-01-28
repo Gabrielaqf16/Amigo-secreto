@@ -1,4 +1,4 @@
-# Amigo Secreto - Lógica de Programación
+# Amigo Secreto 
 
 ## Descripción del Proyecto
 Este proyecto tiene como principal objetivo fortalecer tus habilidades en lógica de programación mediante la creación de una sencilla aplicación para sortear un "amigo secreto". La aplicación permite a los usuarios ingresar nombres en una lista y seleccionar aleatoriamente a uno de ellos como el amigo secreto.
@@ -17,3 +17,9 @@ Este proyecto tiene como principal objetivo fortalecer tus habilidades en lógic
 1. Ingresa el nombre de un amigo en el campo de texto y haz clic en el botón **"Agregar"** para añadirlo a la lista.
 2. Una vez que hayas agregado todos los nombres, haz clic en el botón **"Sortear Amigo Secreto"**.
 3. El nombre del amigo secreto seleccionado se mostrará en pantalla.
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Gabriela Quispe Farfán** - *Trabajo Inicial* - [gabrielaqf16](https://github.com/gabrielaqf16)
